@@ -81,3 +81,23 @@ Para descargarse un repositorio GIT
 # Si quieres un archivo
 git pull origin main
 ```
+
+## Borrar el repositorio GIT
+Para descargarse un repositorio GIT
+
+```shell
+# Si quieres un archivo
+git remote remove origin
+```
+
+## Conectar el repositorio GIT
+Para descargarse un repositorio GIT
+
+```shell
+# HTTPS (Usuario y Key)
+git remote add origin <ruta https://....>
+
+# SSH (Clave publica/privada)
+git remote add origin <ruta git@....>
+```
+
