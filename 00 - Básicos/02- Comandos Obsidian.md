@@ -1,0 +1,1 @@
+**ctrl +p** -> abrir comandos
