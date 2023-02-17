@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "23c5e18f17b2d3fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0cb9bfc1fa7cf2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ea7ba76a4320687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d966b387852a589",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb2d5d90fc3e71b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87e6cc739c1620c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6dde3f4077a8458d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3003904bf650c464",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "7ede2b30ae1328bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8255ac4ebac1f2b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068be510654b4ef1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63b5f023386e81af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e3123e48f392e4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "388563b4ea7ddc4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "8ea7ba76a4320687",
+  "lastOpenFiles": [
+    "00 - Básicos/01 - GIT/01 - ¿Qué es GIT?.md",
+    "00 - Básicos/03 - Docker/Iniciar.md",
+    "00 - Básicos/03 - Comandos VSCode.md",
+    "01 - Desarollo Web/01 - Fundamentos de la programación.md",
+    "01 - Desarollo Web/04 - PHP/02 - Fundamentos PHP.md",
+    "01 - Desarollo Web/02 - JavaScript/02 - Fundamentos JS.md",
+    "01 - Desarollo web/04 - PHP/02 - IDE PHP.md",
+    "01 - Desarollo Web/04 - PHP/01 - Frameworks.md",
+    "01 - Desarollo Web/02 - IDE.md",
+    "01 - Desarollo Web/02 - JavaScript/01 - Frameworks.md"
+  ]
+}
