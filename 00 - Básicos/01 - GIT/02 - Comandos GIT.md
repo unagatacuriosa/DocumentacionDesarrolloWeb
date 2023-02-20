@@ -1,4 +1,4 @@
-##Configurar user y email de GIT
+## Configurar user y email de GIT
 
 ```shell
 sudo apt-get update
@@ -46,7 +46,6 @@ git add *
 Para antes de hacer el commit y has modificado archivos o quieres modificar.
 
 ```shell
-# Si quieres un archivo
 git rm --cached  <nombre archivo>
 ```
 
@@ -54,7 +53,6 @@ git rm --cached  <nombre archivo>
 Para commitear y acabar el flujo de trabajo.
 
 ```shell
-# Si quieres un archivo
 git commit -m "comentario"
 ```
 
@@ -62,7 +60,6 @@ git commit -m "comentario"
 Para descargarse un repositorio GIT
 
 ```shell
-# Si quieres un archivo
 git clone url
 ```
 
@@ -70,15 +67,13 @@ git clone url
 Para descargarse un repositorio GIT
 
 ```shell
-# Si quieres un archivo
 git push --force origin main
 ```
 
 ## Bajar GIT
-Para descargarse un repositorio GIT
+Para descargarse y comparar un repositorio GIT
 
 ```shell
-# Si quieres un archivo
 git pull origin main
 ```
 
@@ -86,7 +81,6 @@ git pull origin main
 Para descargarse un repositorio GIT
 
 ```shell
-# Si quieres un archivo
 git remote remove origin
 ```
 
@@ -101,3 +95,11 @@ git remote add origin <ruta https://....>
 git remote add origin <ruta git@....>
 ```
 
+## Comparación del código
+Sirve para poder ver el código y te marca cuales han sido las modificaciones.
+Es importante que el primero que pongamos sea el más antiguo para poder ver de forma correcta el flujo de modificación.
+
+```shell
+# Con git log puedes ver su id de commit (un chorrizo enorme de numeros)
+git diff id_del_commit_masAntiguo id_del_commit_masReciente
+```
