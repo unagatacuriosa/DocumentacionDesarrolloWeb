@@ -1,7 +1,9 @@
 ## Configurar user y email de GIT
+Instalar Git en Sistemas Linux
 
 ```shell
 sudo apt-get update
+sudo apt-get upgrade
 sudo apt-get install git
 ```
 
@@ -41,6 +43,16 @@ git add <nombre archivo>
 # Si quieres todos los archivos
 git add *
 ```
+
+### Otras opciones de add
+```shell
+# Este añade todos menos los ocultos
+git add *
+
+#Para añadir todos con ocultos
+git add -A
+```
+
 
 ## Para traer al *Working Directory* un archivo del Stading para modificarlo
 Para antes de hacer el commit y has modificado archivos o quieres modificar.

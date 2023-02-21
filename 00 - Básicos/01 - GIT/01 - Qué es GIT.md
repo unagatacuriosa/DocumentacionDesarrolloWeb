@@ -20,8 +20,20 @@ Este seria un flujo optimo para trabajar con GIT:
 
 ![[flujo-git.png]]
 
-## ¿Como iniciar GIT?
+## ¿Como instalar GIT?
 
 Para iniciar GIT debemos tenerlo instalarlo en el sistema. Todo lo gestionaremos a base de comandos.
 
+Si tenemos Sistemas Windows podremos instalarlo entrono gráfico. Ello nos instalará tambien una consola GIT para poder poner todos los comandos.
+
+Si tenemos Sistemas Linux, debemos hacerlo por comandos, aquí esta en comando para la instalación.
+
+[[00 - Básicos/01 - GIT/02 - Comandos GIT#Configurar user y email de GIT]]
+
+## Iniciar GIT en un proyecto.
+Para iniciar GIT en un proyecto debemos abrir una terminal del directorio donde vamos a gestionar ese proyecto, o movernos por comandos en una cosola hasta ese directorio.
+
+Una vez dentro ejecutamos el comando en la consola de init.
+
 [[00 - Básicos/01 - GIT/02 - Comandos GIT#Iniciar GIT]]
+
