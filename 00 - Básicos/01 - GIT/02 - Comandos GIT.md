@@ -7,6 +7,14 @@ sudo apt-get upgrade
 sudo apt-get install git
 ```
 
+## Clonar GIt
+Sirve para clonar un repositorio de Github ya sea propio o ageno.
+- Si es propio podremos hacer push en ellos (si trabajamos desde distintos ordenadores)
+- Si es ageno NO podremos hacer push, solo nos servira para visualizar y actualizar.
+```shell
+git clone
+```
+
 ## Iniciar GIT
 Para iniciar un **nuevo repositorio** GIT en un proyecto ejecutar este comando en la carpeta principal del proyecto:
 
