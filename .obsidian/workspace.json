@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45aa123b5910bb9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "44eba982d32c565f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Desarollo Web/02 - JavaScript/02 - Fundamentos JS.md",
+                "file": "00 - Básicos/01 - GIT/01 - Qué es GIT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Desarollo Web/02 - JavaScript/02 - Fundamentos JS.md",
+                "file": "00 - Básicos/01 - GIT/01 - Qué es GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Desarollo Web/02 - JavaScript/02 - Fundamentos JS.md",
+                "file": "00 - Básicos/01 - GIT/01 - Qué es GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Desarollo Web/02 - JavaScript/02 - Fundamentos JS.md"
+                "file": "00 - Básicos/01 - GIT/01 - Qué es GIT.md"
               }
             }
           }
@@ -161,15 +148,15 @@
   },
   "active": "44eba982d32c565f",
   "lastOpenFiles": [
+    "hola.md",
+    "00 - Básicos/01 - GIT/01 - Qué es GIT.md",
     "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
+    "00 - Básicos/01 - Comandos Ubuntu.md",
+    "00 - Básicos/04 - Key publica-privada.md",
+    "01 - Desarollo Web/02 - JavaScript/02 - Fundamentos JS.md",
     "01 - Desarollo Web/02 - JavaScript/01 - Frameworks.md",
     "00 - Básicos/01 - GIT/03 - Entornos gráficos GIT.md",
-    "00 - Básicos/01 - GIT/01 - Qué es GIT.md",
     "00 - Básicos/01 - GIT/02 - Comandos GI.md",
-    "Comando de.md",
-    "Comando de iniciar proyecto git.md",
-    "Iniciar GIT.md",
-    "00 - Básicos/03 - Docker/01 - Qué es docker.md",
-    "00 - Básicos/02- Node.js/01 - NPM.md"
+    "Comando de.md"
   ]
 }

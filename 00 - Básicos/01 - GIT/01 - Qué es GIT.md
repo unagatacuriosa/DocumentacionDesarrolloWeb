@@ -36,4 +36,4 @@ Para iniciar GIT en un proyecto debemos abrir una terminal del directorio donde 
 Una vez dentro ejecutamos el comando en la consola de init.
 
 [[00 - Básicos/01 - GIT/02 - Comandos GIT#Iniciar GIT]]
-
+ 

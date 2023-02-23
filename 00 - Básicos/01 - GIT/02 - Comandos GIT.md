@@ -123,3 +123,26 @@ Es importante que el primero que pongamos sea el más antiguo para poder ver de 
 # Con git log puedes ver su id de commit (un chorrizo enorme de numeros)
 git diff id_del_commit_masAntiguo id_del_commit_masReciente
 ```
+
+## Comprobar en que rama estas
+```shell
+git checkout master
+```
+
+## Cambiar nombre
+```shell
+git branch -m main
+```
+
+## Crear o mover rama
+
+```shell
+git branch nombre_rama
+```
+
+## Fusionar ramas
+**¡IMPORTANTE!** Te pones en la rama que quieras mantener y le das merge (fusionar) la que quieras mezclar.
+```bash
+git merge nombre_rana
+```
+
