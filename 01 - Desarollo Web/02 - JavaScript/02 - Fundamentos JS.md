@@ -1,3 +1,5 @@
+# [Documentación](https://es.javascript.info/)
+
 ## Variables
 Hay tres formas de declarar variables en JS
 

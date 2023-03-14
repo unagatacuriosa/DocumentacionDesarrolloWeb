@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0cb9bfc1fa7cf2c",
+        "id": "422e08f69a45a3af",
         "type": "tabs",
         "children": [
           {
-            "id": "44eba982d32c565f",
+            "id": "b3dd150a05ad760f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,15 +146,29 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "44eba982d32c565f",
+  "active": "b3dd150a05ad760f",
   "lastOpenFiles": [
-    "hola.md",
+    "\"00.md",
     "00 - Básicos/01 - GIT/01 - Qué es GIT.md",
     "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
     "00 - Básicos/01 - Comandos Ubuntu.md",
-    "00 - Básicos/04 - Key publica-privada.md",
+    "publica-privada.md",
+    "[[00.md",
+    "00.md",
     "01 - Desarollo Web/02 - JavaScript/02 - Fundamentos JS.md",
+    "01 - Desarollo Web/01 - HTML/01 - Qué es HTML.md",
+    "00 - Básicos/02- Node.js/01 - NPM.md",
+    "00 - Básicos/03 - Docker/02 - Comandos Docker.md",
+    "00 - Básicos/03 - Docker/01 - Qué es docker.md",
+    "04 - Desarrollo Videojuegos",
+    "01 - Desarollo Web/01 - Fundamentos de la programación.md",
+    "01 - Desarollo Web/03 - Documentación de proyecto.md",
+    "00 - Básicos/05 - Despliegue/01 - Apache.md",
     "01 - Desarollo Web/02 - JavaScript/01 - Frameworks.md",
+    "01 - Desarollo Web/02 - JavaScript/03 - React.md",
+    "00 - Básicos/04 - Virtualización/01 - Qué es Virtualizar.md",
+    "hola.md",
+    "00 - Básicos/04 - Key publica-privada.md",
     "00 - Básicos/01 - GIT/03 - Entornos gráficos GIT.md",
     "00 - Básicos/01 - GIT/02 - Comandos GI.md",
     "Comando de.md"

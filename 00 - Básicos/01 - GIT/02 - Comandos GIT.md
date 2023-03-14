@@ -137,6 +137,7 @@ git branch -m main
 ## Crear o mover rama
 
 ```shell
+# con branch asecas ves lsa ramas
 git branch nombre_rama
 ```
 
@@ -146,3 +147,6 @@ git branch nombre_rama
 git merge nombre_rana
 ```
 
+
+
+Guía comandos

@@ -28,12 +28,13 @@ Si tenemos Sistemas Windows podremos instalarlo entrono gráfico. Ello nos insta
 
 Si tenemos Sistemas Linux, debemos hacerlo por comandos, aquí esta en comando para la instalación.
 
-[[00 - Básicos/01 - GIT/02 - Comandos GIT#Configurar user y email de GIT]]
+[[00 - Básicos/01 - GIT/02 - Comandos GIT#Configurar user y email de GIT|Configurar user y email de GIT]]
+
 
 ## Iniciar GIT en un proyecto.
 Para iniciar GIT en un proyecto debemos abrir una terminal del directorio donde vamos a gestionar ese proyecto, o movernos por comandos en una cosola hasta ese directorio.
 
 Una vez dentro ejecutamos el comando en la consola de init.
 
-[[00 - Básicos/01 - GIT/02 - Comandos GIT#Iniciar GIT]]
+[[00 - Básicos/01 - GIT/02 - Comandos GIT#Iniciar GIT|Iniciar Git]]
  
