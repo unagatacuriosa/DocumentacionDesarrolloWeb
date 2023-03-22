@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "24e904014a9c0058",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Desarollo Web/04 - PHP/03 - Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Desarollo Web/04 - PHP/03 - Laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 - Desarollo Web/04 - PHP/03 - Laravel.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +151,14 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "c9eced77816ff589",
+  "active": "24e904014a9c0058",
   "lastOpenFiles": [
-    "00 - Básicos/03 - Docker/02 - Comandos Docker.md",
+    "01 - Desarollo Web/03 - Documentación de proyecto.md",
+    "01 - Desarollo Web/01 - Fundamentos de la programación.md",
+    "01 - Desarollo Web/02 - IDE.md",
+    "02 - Desarrollo App/Untitled.md",
     "01 - Desarollo Web/04 - PHP/03 - Laravel.md",
+    "00 - Básicos/03 - Docker/02 - Comandos Docker.md",
     "00 - Básicos/01 - GIT/01 - Qué es GIT.md",
     "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
     "01 - Desarollo Web/04 - PHP/01 - Frameworks.md",
@@ -167,13 +176,9 @@
     "00 - Básicos/02- Gestión de paquetes/01 - NPM.md",
     "00 - Básicos/03 - Docker/01 - Qué es docker.md",
     "04 - Desarrollo Videojuegos",
-    "01 - Desarollo Web/01 - Fundamentos de la programación.md",
-    "01 - Desarollo Web/03 - Documentación de proyecto.md",
     "00 - Básicos/05 - Despliegue/01 - Apache.md",
     "01 - Desarollo Web/02 - JavaScript/03 - React.md",
     "00 - Básicos/04 - Virtualización/01 - Qué es Virtualizar.md",
-    "hola.md",
-    "00 - Básicos/04 - Key publica-privada.md",
-    "00 - Básicos/01 - GIT/03 - Entornos gráficos GIT.md"
+    "hola.md"
   ]
 }
