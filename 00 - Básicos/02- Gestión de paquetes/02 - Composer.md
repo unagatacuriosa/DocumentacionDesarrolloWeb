@@ -29,3 +29,21 @@ Si has echo cambios volver a hacer (generar de nuevo el classmap)
 composer update
 ```
 
+Arrancar un servidor local laravel
+```shell
+php artisan serve &
+```
+
+Instalar breeze
+```shell
+# Primero este comando
+composer require "laravel/breeze"
+# Despues este otro
+php artisan breeze:install
+```
+
+Para migrar:
+```shell
+php artisan migrate
+```
+
