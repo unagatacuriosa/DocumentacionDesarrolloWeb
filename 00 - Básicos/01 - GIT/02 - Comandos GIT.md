@@ -76,6 +76,37 @@ Para commitear y acabar el flujo de trabajo.
 git commit -m "comentario"
 ```
 
+## Añadir tag a los commits
+Para ponerte el tag
+```shell
+#v1.0.0
+git tag nombre_tag
+```
+
+Para borrar tag
+```shell
+#v1.0.0
+git tag -d nombre_tag
+```
+
+Para subir las tag
+```shell
+#v1.0.0
+git push --tags
+```
+
+Para subir los commits con los tags
+```shell
+#v1.0.0
+git push && git push --tags
+```
+
+Para ver los tags
+```shell
+# Muestra toda la lista de tags
+git tag
+```
+
 ## Clonar GIT
 Para descargarse un repositorio GIT
 

@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "89edd9438e79f68b",
+        "id": "3f90b940e35dc4f7",
         "type": "tabs",
         "children": [
           {
-            "id": "c9eced77816ff589",
+            "id": "fba991080d4af1ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Desarollo Web/04 - PHP/03 - Laravel.md",
+                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "24e904014a9c0058",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md"
+              }
             }
           }
         ]
@@ -151,18 +146,19 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "24e904014a9c0058",
+  "active": "fba991080d4af1ac",
   "lastOpenFiles": [
+    "00 - Básicos/03 - Docker/02 - Comandos Docker.md",
+    "01 - Desarollo Web/04 - PHP/03 - Laravel.md",
+    "01 - Desarollo Web/02 - JavaScript/02 - Fundamentos JS.md",
+    "01 - Desarollo Web/02 - JavaScript/01 - Frameworks.md",
     "01 - Desarollo Web/03 - Documentación de proyecto.md",
     "01 - Desarollo Web/01 - Fundamentos de la programación.md",
     "01 - Desarollo Web/02 - IDE.md",
     "02 - Desarrollo App/Untitled.md",
-    "01 - Desarollo Web/04 - PHP/03 - Laravel.md",
-    "00 - Básicos/03 - Docker/02 - Comandos Docker.md",
     "00 - Básicos/01 - GIT/01 - Qué es GIT.md",
     "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
     "01 - Desarollo Web/04 - PHP/01 - Frameworks.md",
-    "01 - Desarollo Web/02 - JavaScript/01 - Frameworks.md",
     "01 - Desarollo Web/04 - PHP/02 - Fundamentos PHP.md",
     "publica-privada.md",
     "00 - Básicos/02- Gestión de paquetes/02 - Composer.md",
@@ -171,7 +167,6 @@
     "00 - Básicos/01 - Comandos Ubuntu.md",
     "[[00.md",
     "00.md",
-    "01 - Desarollo Web/02 - JavaScript/02 - Fundamentos JS.md",
     "01 - Desarollo Web/01 - HTML/01 - Qué es HTML.md",
     "00 - Básicos/02- Gestión de paquetes/01 - NPM.md",
     "00 - Básicos/03 - Docker/01 - Qué es docker.md",
