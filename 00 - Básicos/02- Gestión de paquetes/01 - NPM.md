@@ -34,6 +34,21 @@ npm i -D <nombre paquete>
 
 ```
 
+```shell
+# crear un nuevo proyecto react
+npx create-react-app react-bootstrap
+
+#ir a la carpeta
+cd react-bootstrap
+
+# iniciar el proyecto
+# muy importante el run
+npm run start
+
+
+```
+
+
 ## Fichero de dependencias
 
 Son *package.json* y *package-lock.json*

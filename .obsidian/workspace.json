@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
+                "file": "01 - Desarollo Web/04 - PHP/03 - Laravel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
+                "file": "01 - Desarollo Web/04 - PHP/03 - Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
+                "file": "01 - Desarollo Web/04 - PHP/03 - Laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Básicos/01 - GIT/02 - Comandos GIT.md"
+                "file": "01 - Desarollo Web/04 - PHP/03 - Laravel.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "fba991080d4af1ac",
   "lastOpenFiles": [
-    "00 - Básicos/03 - Docker/02 - Comandos Docker.md",
+    "01 - Desarollo Web/02 - JavaScript/03 - React.md",
+    "00 - Básicos/03 - Comandos VSCode.md",
+    "00 - Básicos/02- Gestión de paquetes/01 - NPM.md",
     "01 - Desarollo Web/04 - PHP/03 - Laravel.md",
+    "00 - Básicos/03 - Docker/02 - Comandos Docker.md",
+    "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
     "01 - Desarollo Web/02 - JavaScript/02 - Fundamentos JS.md",
     "01 - Desarollo Web/02 - JavaScript/01 - Frameworks.md",
     "01 - Desarollo Web/03 - Documentación de proyecto.md",
@@ -157,7 +161,6 @@
     "01 - Desarollo Web/02 - IDE.md",
     "02 - Desarrollo App/Untitled.md",
     "00 - Básicos/01 - GIT/01 - Qué es GIT.md",
-    "00 - Básicos/01 - GIT/02 - Comandos GIT.md",
     "01 - Desarollo Web/04 - PHP/01 - Frameworks.md",
     "01 - Desarollo Web/04 - PHP/02 - Fundamentos PHP.md",
     "publica-privada.md",
@@ -168,12 +171,9 @@
     "[[00.md",
     "00.md",
     "01 - Desarollo Web/01 - HTML/01 - Qué es HTML.md",
-    "00 - Básicos/02- Gestión de paquetes/01 - NPM.md",
     "00 - Básicos/03 - Docker/01 - Qué es docker.md",
     "04 - Desarrollo Videojuegos",
     "00 - Básicos/05 - Despliegue/01 - Apache.md",
-    "01 - Desarollo Web/02 - JavaScript/03 - React.md",
-    "00 - Básicos/04 - Virtualización/01 - Qué es Virtualizar.md",
-    "hola.md"
+    "00 - Básicos/04 - Virtualización/01 - Qué es Virtualizar.md"
   ]
 }

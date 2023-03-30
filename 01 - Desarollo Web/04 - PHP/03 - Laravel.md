@@ -55,17 +55,33 @@ npm run dev
 ```
 
 # Sistema de carpetas
-## Controlador
-- app -> Http -> Controllers
-Aquí haras toda la parte back de la web
+## Model
+- Todo lo que tiene que ver con las tablas y que interactuen
 
 ## Vista
 - resources -> views
+Las paginsa html
 Se tienen que nombrar siempre de la misma forma.
 `nombre.blade.php`
 
+## Controlador
+- app -> Http -> Controllers
+- La parte php
+Aquí haras toda la parte back de la web
+
 ## Ruta
 - routes
+- Los distintos recursos que voy a dejar disponible en mi aplicacion
+- Las cosas que solicito
+- index.php / juego.php / calculara.php
+
+## Bases de datos
+- database
+- Más desarolllo que para producion
+- La peticiones y control de la base de datos
+	- factories -> valores tabla
+	- migration -> crear tabla
+	- seeders -> poblar tablas
 
 ## Public
 Aquí pones todo lo que quieres que se renderice publicamente en el navegador
@@ -98,7 +114,6 @@ Aquí pones todo lo que quieres que se renderice publicamente en el navegador
 # Librerias
 - **BREEZE** -> Gestor de autentifación
 
-
 # Componentes
 - Pueden contener html, css y js
 - Su estructura para llamarlos es la etiqutea `<x-nombre>`
@@ -126,9 +141,13 @@ Comando de migracion que ejecuta los archivos que estan en **database -> migrati
 
 # Hacer la migracion desde 0 (perderias los datos)
  php artisan migrate:fresh
+
+# Hacer una nueva migracion sin borrar la anterior
+ php artisan migrate --i
 ```
 
-## Modelo 
+# Modelo 
+**Lo primero que creamos**
 Para crear un modelo de migración automatico, cosas que crea de forma automática:
 - Http -> Controllers -> EmpresaController.php
 - database -> factories -> EmpresaFactory.php
@@ -137,3 +156,4 @@ Para crear un modelo de migración automatico, cosas que crea de forma automáti
 ```shell
 php artisan make:Model Empresa --all
 ```
+

@@ -2,7 +2,13 @@
 Tenemos que estar en la carpeta donde tengamos ese archivo, y ese archivo lo creamos con las necesidades que tengamos para nuestro docker personalizado.
 ## Arrancar docker
 ```shell
+# Si es sencillo volviendo a arrarcar este basta
 docker compose up -d
+```
+
+Volver a arrancar otra version
+```shell
+docker compose up -d --force-recreate
 ```
 
 ## Parar docker
