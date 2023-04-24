@@ -1,0 +1,4 @@
+- **LARAVEL**
+- VUE
+- Tailwind
+- 

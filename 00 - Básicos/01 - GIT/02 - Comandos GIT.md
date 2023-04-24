@@ -155,9 +155,14 @@ Es importante que el primero que pongamos sea el más antiguo para poder ver de 
 git diff id_del_commit_masAntiguo id_del_commit_masReciente
 ```
 
-## Comprobar en que rama estas
+## Cambiar de rama
 ```shell
 git checkout master
+```
+
+## Comprobar ramas
+```shell
+git branch -a
 ```
 
 ## Cambiar nombre
@@ -168,7 +173,7 @@ git branch -m main
 ## Crear o mover rama
 
 ```shell
-# con branch asecas ves lsa ramas
+# con branch asecas ves las ramas
 git branch nombre_rama
 ```
 
@@ -178,6 +183,7 @@ git branch nombre_rama
 git merge nombre_rana
 ```
 
-
-
-Guía comandos
+## Borrar rama
+```shell
+git branch --delete nombre_rama
+```
